@@ -23,3 +23,21 @@ function myFunction(){
       /* ... caso contrário, (se já estiver visível) faça sumir.*/
     }
   }
+
+  var exemploBoolean = 10;
+  var exemplonull = null;
+  var exemploUndefined;
+  var exemploNumber = 40;
+  var exemploString = "Exemplo";
+  var exemploCaracter = 'A';
+  var $ = 100;
+  var $$ = "Hello World";
+
+  console.log(exemploBoolean)
+  console.log(exemplonull)
+  console.log(exemploUndefined)
+  console.log(exemploNumber)
+  console.log(exemploString)
+  console.log(exemploCaracter)
+  console.log($)
+  console.log($$)
